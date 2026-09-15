@@ -11,5 +11,6 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Hello Oliaya!\n";
+	cout << "Hello Artem!\n";
 }
 
